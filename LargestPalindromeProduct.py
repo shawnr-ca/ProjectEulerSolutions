@@ -13,8 +13,6 @@ for i in range(SmallestNumDig, LargestNumDig + 1):
     for j in range(SmallestNumDig, LargestNumDig + 1):
         PossNums.append(i*j)
 
-#for i in range(2000000):
- #   PossNums.append(i)
 PalList = []
 
 for i in PossNums:
