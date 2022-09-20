@@ -39,3 +39,4 @@ for i in PossNums:
 
 
 print(PalList)
+print(max(PalList))
